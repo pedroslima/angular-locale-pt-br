@@ -1,16 +1,26 @@
 # Packaged angular-locale\_pt-br
 
-## Install
+[![npm version](https://img.shields.io/npm/v/angular-locale-pt-br.svg)](https://www.npmjs.com/package/angular-locale-pt-br) 
+[![Bower version](https://img.shields.io/bower/v/angular-locale-pt-br.svg)](https://bower.io/search/?q=angular-locale-pt-br) 
+[![NPM](https://nodei.co/npm/angular-locale-pt-br.png?downloads=true&stars=true)](https://nodei.co/npm/angular-locale-pt-br/)
 
-```shell
-bower install angular-locale-pt-br
+Installation
+------------
+
+**With Bower:**
+
+```
+bower install --save angular-locale-pt-br
+```
+
+**With NPM:**
+
+```
+npm install --save angular-locale-pt-br
 ```
 
 Add a `<script>` to your `index.html`:
 
-```html
-<script src="/bower_components/angular-locale-pt-br/angular-locale_pt-br.js"></script>
-```
 
 ## Documentation
 
